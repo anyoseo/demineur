@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Minesweeper/demineur/src/Events/PlayEvent.java</file>
+            <file>file:/D:/Minesweeper/demineur/src/View/ScoreTableView.java</file>
+            <file>file:/D:/Minesweeper/demineur/src/Model/Game.java</file>
+            <file>file:/D:/Minesweeper/demineur/src/Model/Position.java</file>
+            <file>file:/D:/Minesweeper/demineur/src/View/MainMenu.java</file>
+            <file>file:/D:/Minesweeper/demineur/src/View/InfoView.java</file>
+            <file>file:/D:/Minesweeper/demineur/src/View/BoardView.java</file>
+            <file>file:/D:/Minesweeper/demineur/test/Model/DirectionTest.java</file>
+            <file>file:/D:/Minesweeper/demineur/src/Model/State.java</file>
+            <file>file:/D:/Minesweeper/demineur/test/Model/PositionTest.java</file>
+            <file>file:/D:/Minesweeper/demineur/src/Model/Square.java</file>
+            <file>file:/D:/Minesweeper/demineur/src/View/GameView.java</file>
+            <file>file:/D:/Minesweeper/demineur/src/Model/Board.java</file>
+            <file>file:/D:/Minesweeper/demineur/test/Model/SquareTest.java</file>
+            <file>file:/D:/Minesweeper/demineur/src/View/ScoresView.java</file>
+            <file>file:/D:/Minesweeper/demineur/test/Model/BoardTest.java</file>
+            <file>file:/D:/Minesweeper/demineur/src/Model/Direction.java</file>
+            <file>file:/D:/Minesweeper/demineur/test/Model/GameTest.java</file>
+            <file>file:/D:/Minesweeper/demineur/src/View/SquareView.java</file>
+            <file>file:/D:/Minesweeper/demineur/src/Controller/Controller.java</file>
+        </group>
+    </open-files>
+</project-private>
